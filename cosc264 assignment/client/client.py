@@ -2,6 +2,7 @@
 Client side program for COSC 264 assignment 1
 
 by Alexander Doyle
+v1.0
 """
 import math
 import os
